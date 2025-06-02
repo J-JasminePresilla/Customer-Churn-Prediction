@@ -1,6 +1,6 @@
 # Customer Churn Prediction
 ## Overview
-Built a machine learning model to predict customer churn using the Telco Customer Churn dataset. Applied data preprocessing, trained Logistic Regression and Random Forest models with SMOTE, and visualized results. 
+Built a machine learning model to predict customer churn using the Telco Customer Churn dataset. Applied data preprocessing, trained Logistic Regression and Random Forest models with SMOTE, and visualized results. Project by Jasmine Presilla J and Karthick E.
 
 ## Dataset
 - Source: [Kaggle Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
